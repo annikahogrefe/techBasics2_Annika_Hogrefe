@@ -8,11 +8,7 @@ Practically I learnt how to make a lamp blink by using delay TWICE. In a little 
 - Arduino is an open-source electronic prototyping platform based
 on easy-to-use hardware and software
 - Microcontroller:
-    - low-cost, single chip, self-contained computer syste
-
-
-
-m
+    - low-cost, single chip, self-contained computer system
     - theyʼre the invisible computers embedded inside drones, 3D printers, toys and wash machines
 - Raspberry Pi is closer to a real computer than a microcontroller, with more processing power & more memory (might be used for final project)
 - **void** means function doesn’t return anything
@@ -36,8 +32,8 @@ hardware specific
 
 ### Insights
 
-https://github.com/user-attachments/assets/39ce4cb1-34be-4f5f-8217-6902dd68f5a2
 
+https://github.com/user-attachments/assets/39ce4cb1-34be-4f5f-8217-6902dd68f5a2
 
 
 
