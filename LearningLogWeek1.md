@@ -1,14 +1,18 @@
-### LEARNING LOG WEEK 1
+## LEARNING LOG WEEK 1
 
 This week I learnt some basics about "void", c language, the commands pinMode, digitalWrite and delay, the general usage of Ardurino (folder structure, spelling commands etc). 
 Practically I learnt how to make a lamp blink by using delay TWICE. In a little experiment I/we discovered that the human eye can no longer distingusih the blinking pattern at 15 miliseconds. 
 
 ### Notes
-(also avalible on my [Notio](https://app.notion.com/p/Week-1-Oct-13th-Introduction-3f81a46c8a6e807c8a06fcac070b32d4?source=copy_link))
+(also avalible on my [Notion](https://app.notion.com/p/Week-1-Oct-13th-Introduction-3f81a46c8a6e807c8a06fcac070b32d4?source=copy_link))
 - Arduino is an open-source electronic prototyping platform based
 on easy-to-use hardware and software
 - Microcontroller:
-    - low-cost, single chip, self-contained computer system
+    - low-cost, single chip, self-contained computer syste
+
+
+
+m
     - theyʼre the invisible computers embedded inside drones, 3D printers, toys and wash machines
 - Raspberry Pi is closer to a real computer than a microcontroller, with more processing power & more memory (might be used for final project)
 - **void** means function doesn’t return anything
@@ -31,4 +35,8 @@ hardware specific
     - good habit: red for +, black for -
 
 ### Insights
+
+https://github.com/user-attachments/assets/39ce4cb1-34be-4f5f-8217-6902dd68f5a2
+
+
 
