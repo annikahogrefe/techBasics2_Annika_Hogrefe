@@ -14,8 +14,6 @@ To my own surprise I actually enjoy the "building" and find a lot easier and mor
     - it’s a widely used technique in dimming LEDs, controlling motor speed, etc
 - duty cycle: the promotion of "on-time" in each cycle
 
-!grafik.png
-
 - Oscilloscope: a device that measures voltages and displays it graphically
     - give pin and value (0-255):  (pinMode (OUTPUT) → setup and analogWrite → loop)
     - chaning the value / duty cycle creates a signal change displayed as bump → PMW
@@ -23,8 +21,6 @@ To my own surprise I actually enjoy the "building" and find a lot easier and mor
 - Digital signals are discrete and usually represented by binar y
 states (0 and 1)
 - analog pins can also be used for digital output
-
-!grafik.png
 
 - reset button doesn’t delete the code, it just reruns it
 - TX(transmit), RX(Receive) are reser ved for serial communication, usually we don't use these two pins, you can use these two pins as normal digital pins if no serial communication is needed
@@ -42,8 +38,6 @@ Low - 0V
     - stable connection when upright so connected to the ground → 0
     - when it’s unstabe it’s not connected to anywhere → 1
     - cables create noise
-    
-    !grafik.png
     
 - Serial Baud Rate
     - Serial baud rates are the number of signal changes per second in a serial communication channel
@@ -68,13 +62,11 @@ Low - 0V
     - similar to a sound synthesiser
     - middle pin for output! others for power and ground (swap to chnage direction)
     - 1023 = 5V
-    
-    !grafik.png
+
     
 - Volatage Divider:
     - series circuit
     
-    !grafik.png
     
 - Serial Read
 - Photoresistor: also called a light-dependent resistor (LDR), is a light- sensitive variable resistor whose resistance decreases as the intensity of light hitting its surface increases
@@ -84,23 +76,21 @@ Low - 0V
 
 #### Exercise 1: Fade in/out a LED
 
-!IMG_3017.heic
+<img width="2048" height="2731" alt="grafik" src="https://github.com/user-attachments/assets/6c2a2180-32bb-44d1-8fe3-32ba71cef1c7" />
+<img width="963" height="513" alt="grafik" src="https://github.com/user-attachments/assets/331acd30-63a4-45a4-bbde-b3a3c8f3183b" />
 
-!Screenshot 2026-10-27 103159.png
 
 #### Exercise 2: DigitalRead( )
 
-!IMG_3018.heic
-
-!Screenshot 2026-10-27 105505.png
-
-!Screenshot 2026-10-27 111327.png
+<img width="963" height="513" alt="grafik" src="https://github.com/user-attachments/assets/17708be6-5429-4620-86d4-5413b7097d64" />
+<img width="978" height="1008" alt="grafik" src="https://github.com/user-attachments/assets/8c897f67-0408-45e5-917b-739bff2e823b" />
+<img width="1518" height="1001" alt="grafik" src="https://github.com/user-attachments/assets/2f1343b0-5395-4693-ab49-e128c8d1890a" />
 
 #### Exercise 3: AnalogRead( )
 
-!IMG_3020.heic
+<img width="1518" height="1001" alt="grafik" src="https://github.com/user-attachments/assets/52c36927-c1ee-4f86-b9b2-4576efcda60f" />
+<img width="1567" height="1007" alt="grafik" src="https://github.com/user-attachments/assets/9e5f2b0f-e23f-4867-8a32-2ea56e90271e" />
 
-!Screenshot 2026-10-27 114901.png
 
 #### Exercise 4: Read input from Serial
 
