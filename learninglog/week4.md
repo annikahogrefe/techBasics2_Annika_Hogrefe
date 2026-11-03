@@ -1,4 +1,4 @@
-<img width="2048" height="2731" alt="grafik" src="https://github.com/user-attachments/assets/82d63850-73e8-4205-8548-b8969b016ee2" />## LEARNING LOG WEEK 4
+## LEARNING LOG WEEK 4
 
 This week we got to play around with Buzzers. I especially enjoyes playing melodies from Star Wars and Pirates of the Carribbean and can imagine doing something with sound for my final project as well!
 We then used an Ultrasonic Distance Sensor which is a comlicated but useful tool in my opinion. 
