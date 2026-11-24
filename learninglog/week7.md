@@ -37,12 +37,6 @@ I'm looking forward to next week talking more about project ideas/inspiration.
       
 - **MOSFET:** Switch that can handle more power than a transistor
 - **Relay:** isolates the control circuit from the load for safety
-- **Switches:**
-- |  | **Transistors** | **Mosefets** | **Relays** |
-| --- | --- | --- | --- |
-| Mechanism | current controlled | voltage controlled | electromechanic |
-| Speed & Torque | High torque at low speed | Good at dynamic tasks with high speed changes | High speed |
-| Applications | Low-speed, high precision tasks | Dynamsic, high-performance tasks | High-speed applications |
 
 
 ### Exercises
